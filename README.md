@@ -10,7 +10,7 @@
 | luci-app-mosdns                | 高性能 DNS 分流器，支持 DoH/DoQ 等         | [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)                     |
 | luci-app-ssr-plus              | 代理工具                | [coolsnowwolf/luci-app-ssr-plus](https://github.com/fw876/helloworld) |
 | luci-app-lucky           | Lucky大吉,软硬路由公网神器,ipv6/ipv4 端口转发,反向代理 | [程序 gdy666/lucky](https://github.com/gdy666/lucky) [ipk仓库](https://dl.openwrt.ai/packages-24.10/aarch64_cortex-a53/kiddin9/)                      |
-| 未完待续             | 未完待续 | 未完待续                       |
+| luci-app-easytier | 组网 | https://github.com/EasyTier/luci-app-easytier
 
 ## 如何集成到AutoBuildImmortalWrt
 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
